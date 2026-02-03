@@ -5,9 +5,9 @@ Garantir le bon déroulement de la rencontre en assurant le chronométrage (temp
 
 ## Missions principales
 - Se présenter et s’inscrire sur la feuille/FDME comme officiel de table (selon organisation)
-- Préparer le matériel de table (tableau de marque/chronomètre, feuilles, stylo, fiches d’exclusion)
+- Préparer le matériel de table (tableau de marque/chronomètre, sifflet, feuilles, stylo, fiches d’exclusion si nécessaire)
 - Pendant le match : contrôler le temps de jeu, les temps-morts et le temps d’exclusion
-- Aider au respect des horaires (début, mi-temps) et au bon fonctionnement de la zone de changement (en coordination)
+- Aider au respect des horaires (début, mi-temps) et au bon fonctionnement de la zone de changement (en coordination avec le secrétaire de table)
 - Rester neutre et ne pas commenter les décisions ou les actions de jeu
 - Ranger le matériel et faire le point avec la table/arbitres en fin de rencontre si nécessaire
 

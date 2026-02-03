@@ -7,9 +7,10 @@ Assurer la tenue de la table (FDME/feuille de match) en consignant de façon fia
 - Avant le match : préparer la FDME/feuille de match, renseigner les officiels, vérifier les listes de joueurs (noms/numéros)
 - Contrôler la composition des équipes et la conformité des inscriptions (joueurs ajoutés, joueurs non autorisés)
 - Pendant le match : noter buteurs, sanctions (jaune/rouge), exclusions 2 minutes, temps-morts, éventuelles réclamations
-- Remplir lisiblement les fiches d’exclusion (numéro, équipe, heure/temps de rentrée) et les remettre selon la procédure
+- Remplir lisiblement les fiches d’exclusion (numéro, équipe, heure/temps de rentrée) si nécessaire
 - Rester neutre, éviter tout commentaire, contribuer à une bonne ambiance autour de la table
-- Fin de match : se tenir à disposition des arbitres, faire signer la FDME, remettre en ordre la table et ranger le matériel
+- Fin de match : se tenir à disposition des arbitres, faire signer la FDME, remettre en ordre la table et ranger le matériel (si nécessaire)
+- En fin de journée si il s'agit du dernier match, effectuer l'export des resultats vers GESTHand
 
 ## Compétences requises
 - Rigueur et sens du détail

@@ -5,11 +5,10 @@ Assurer l’accueil et la tenue du point de vente (buvette) les jours de match, 
 
 ## Missions principales
 - Installer et ouvrir le point de vente (boissons/confiseries/gâteaux), afficher les tarifs
-- Vérifier les stocks et les DLC, signaler les manques
-- Assurer un fond de caisse (coordination Trésorier/Secrétaire)
+- Vérifier les stocks et les DLC pour signaler les manques au responsable buvette
+- Assurer un fond de caisse (coordination Trésorier)
 - Gérer les ventes pendant la rencontre, avec sobriété et vigilance
 - Accueillir équipes/arbitres/officiels/parents en appui des dirigeants (éventuelle gestion des clés de vestiaires)
-- Préparer/proposer la collation prévue par le club (joueurs/coachs/arbitres) selon l’organisation
 - Fin de match : remise du fond de caisse, rangement et nettoyage du point de vente, récupération des clés
 
 ## Compétences requises
