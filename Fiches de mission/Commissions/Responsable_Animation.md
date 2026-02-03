@@ -8,7 +8,7 @@ Renforcer la cohésion et l’esprit club en animant la vie associative (événe
 - Proposer et organiser des événements (soirées, tournois, retransmission, album panini, buvettes spéciales, actions ponctuelles) selon le projet du club
 - Gérer le planning des événements en cohérence avec le calendrier des matchs (occupation salle, disponibilité bénévoles, coordination logistique)
 - Coordonner les bénévoles le jour J (répartition des tâches, montage/démontage, accueil) et assurer le retour d’expérience
-- Travailler avec le Responsable Buvette et le Trésorier pour les aspects recettes/caisse et les besoins en consommables
+- Travailler avec le Responsable Buvette et le Trésorier pour les aspects recettes/caisse (prévisionnel, process, bilan) et les besoins en consommables
 - Proposer des investissements matériels nécessaires aux animations (sonorisation, déco, barnums, signalétique, etc.) et en assurer le suivi (devis, priorisation) avec le Responsable Matériel
 - Construire et proposer un budget prévisionnel par événement (dépenses/recettes) et suivre un bilan après événement (avec le Trésorier)
 - Travailler avec la Communication pour promouvoir les événements et valoriser la vie du club
