@@ -7,7 +7,6 @@ Assurer le bon fonctionnement administratif et la circulation de l’information
 - Préparer les réunions et rédiger les PV
 - Gérer les courriers et communications officielles
 - Tenir à jour les documents du club
-- Gestion administrative des adhésions
 
 ## Compétences requises
 - Organisation

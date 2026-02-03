@@ -7,7 +7,6 @@ Assurer la gestion administrative du volet sportif : licences (validation, renou
 - Piloter les demandes de licences (création, renouvellement, validation) et suivre les pièces associées (identité, certificat/attestation, surclassement si applicable)
 - Gérer les mutations et cas particuliers (dérogations, doubles licences, validations) en lien avec les règles fédérales/ligue
 - Tenir à jour le suivi des licenciés (statut, échéances, relances) et alerter les responsables d’équipes en cas de blocage
-- Assurer l’interface avec la plateforme fédérale/ligue (saisie, contrôles, transmission des justificatifs)
 - « Conclure » les matchs : confirmer/valider officiellement les dates et horaires (et la salle si nécessaire), vérifier la cohérence calendrier/plateau, et gérer les demandes de modification/report dans les délais
 - Veiller au respect des délais réglementaires (licences qualifiées avant match, mutations, reports) et sécuriser l’éligibilité des joueurs
 - Archiver les échanges et conserver une traçabilité minimale (demandes, validations, confirmations de match)
